@@ -1,5 +1,5 @@
 This is the code implementation of the paper "Enhancing Fraud Detection in GNNs with
-Synthetic Fraud Generation and Integrated Structural Features"
+Synthetic Fraud Generation and Integrated Structural Features" (ICANN 2024)
 
 ## Dataset
 
