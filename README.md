@@ -15,3 +15,9 @@ Run `python src/data_process.py` to pre-process the data.
 ```sh
 python main.py --config ./config/brie_yelpchi.yml
 ```
+
+## Brief Description
+
+### Introduction
+![Intro](intro.jpg)
+
