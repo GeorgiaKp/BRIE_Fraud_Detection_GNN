@@ -19,5 +19,5 @@ python main.py --config ./config/brie_yelpchi.yml
 ## Brief Description
 
 ### Introduction
-![Intro](intro.jpg)
+![Intro](images/intro.jpg)
 
