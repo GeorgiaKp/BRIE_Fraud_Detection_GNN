@@ -19,5 +19,5 @@ python main.py --config ./config/brie_yelpchi.yml
 ## Brief Description
 
 ### Introduction
-<img src="images/intro.jpg" alt="Intro" width="500" height="350"/>
+<img src="images/intro.jpg" alt="Intro" width="905" height="760"/>
 
