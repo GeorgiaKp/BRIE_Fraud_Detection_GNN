@@ -28,4 +28,4 @@ python main.py --config ./config/brie_yelpchi.yml
 <img src="images/additional_features.jpg" alt="additional" width="692" height="672"/>
 
 #### Synthesizing fraud nodes (Contribution 2)
-<img src="images/synthesizing.jpg" alt="synthesizing" width="688" height="437"/>
+<img src="images/synthesizing.jpg" alt="synthesizing" width="626" height="357"/>
