@@ -19,7 +19,10 @@ python main.py --config ./config/brie_yelpchi.yml
 ## Brief Description
 
 ### Introduction
-<img src="images/intro.jpg" alt="Intro" width="746" height="626"/>
+<img src="images/intro.jpg" alt="Intro" width="709" height="595"/>
 
 ### Contribution - BRIE
 <img src="images/contribution.jpg" alt="contribution" width="693" height="295"/>
+
+#### Additional structural features
+<img src="images/additional_features.jpg" alt="additional" width="692" height="672"/>
