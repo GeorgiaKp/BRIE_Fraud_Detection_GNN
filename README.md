@@ -31,7 +31,7 @@ python main.py --config ./config/brie_yelpchi.yml
 <img src="images/synthesizing.jpg" alt="synthesizing" width="626" height="357"/>
 
 #### Results
-<img src="images/results.jpg" alt="results" width="621" height="336"/>
+<img src="images/results.jpg" alt="results" width="621" height="320"/>
 
 #### Conclusion
 <img src="images/conclusion.jpg" alt="conclusion" width="700" height="384"/>
