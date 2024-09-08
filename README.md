@@ -21,3 +21,5 @@ python main.py --config ./config/brie_yelpchi.yml
 ### Introduction
 <img src="images/intro.jpg" alt="Intro" width="746" height="626"/>
 
+### Contribution - BRIE
+<img src="images/contribution.jpg" alt="contribution" width="693" height="295"/>
