@@ -24,8 +24,8 @@ python main.py --config ./config/brie_yelpchi.yml
 ### Contribution - BRIE
 <img src="images/contribution.jpg" alt="contribution" width="693" height="295"/>
 
-#### Additional structural features
+#### Additional structural features (Contribution 1)
 <img src="images/additional_features.jpg" alt="additional" width="692" height="672"/>
 
-#### Synthesizing fraud nodes
-<img src="images/synthesizing.jpg" alt="synthesizing" width="624" height="357"/>
+#### Synthesizing fraud nodes (Contribution 2)
+<img src="images/synthesizing.jpg" alt="synthesizing" width="626" height="350"/>
