@@ -26,3 +26,6 @@ python main.py --config ./config/brie_yelpchi.yml
 
 #### Additional structural features
 <img src="images/additional_features.jpg" alt="additional" width="692" height="672"/>
+
+#### Synthesizing fraud nodes
+<img src="images/synthesizing.jpg" alt="synthesizing" width="624" height="357"/>
